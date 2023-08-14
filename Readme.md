@@ -1,1 +1,1 @@
-Criando um slide de imagens.
+Criando um slide de imagens ensaio joias.
