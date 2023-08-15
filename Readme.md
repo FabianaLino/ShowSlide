@@ -4,6 +4,7 @@
 
 ##### Segue abaixo layout da aplicação:
 
+![Imagem fixa do layout](slide/src/images/layoutfixo.png)
 <video src="slide/src/images/videolayout.mp4" controls title="Title"></video>
 
 ---
