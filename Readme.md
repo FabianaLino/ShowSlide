@@ -1,4 +1,4 @@
-# Slide de fotos
+# Slide de Fotos
 
 ##### Neste projeto foi desenvolvido um slide de fotos para um catálago. Utilizando tecnologias como HTML, CSS, JavaScript e Hooks do React, como useState, useEffect, useRef, também usei a Lib framer-motion para dar movimento aos slides ao recarregar a página.
 
